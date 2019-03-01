@@ -1,6 +1,17 @@
 # my_new_flutter_plugin
 
-A new Flutter plugin.
+Its a simple flutter plugin to use android toast.
+# how to add it
+~~~
+just paste it inside dependencies
+my_new_flutter_plugin:^0.0.1
+~~~
+# how to use it 
+~~~
+just call this function from your dart file 
+    FlutterToast.showToast("Hi there");
+~~~
+
 
 ## Getting Started
 
